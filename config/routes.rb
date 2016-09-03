@@ -5,6 +5,3 @@ root to: 'artists#index'
 resources :artists
 
 end
-
-
-test
