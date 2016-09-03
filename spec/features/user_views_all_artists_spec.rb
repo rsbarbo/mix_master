@@ -1,4 +1,4 @@
-
+require "rails_helper"
 
 RSpec.feature "User sees all artists when visiting page" do
   scenario "they see the page for all artists" do

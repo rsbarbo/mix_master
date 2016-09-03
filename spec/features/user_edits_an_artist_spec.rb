@@ -1,4 +1,4 @@
-
+require "rails_helper"
 
 RSpec.feature "User can edit an artist information" do
   scenario "able to update artist info" do

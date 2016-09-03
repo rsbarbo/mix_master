@@ -1,4 +1,4 @@
-
+require "rails_helper"
 
 RSpec.feature "User deletes an artist" do
   scenario "user can delete unwanted artist" do
