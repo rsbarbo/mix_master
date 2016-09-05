@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
-
+# Manages sensitive info within app
+gem 'figaro'
+#Bundle to auth apps
+gem 'omniauth-oauth2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
 # Use postgresql as the database for Active Record
