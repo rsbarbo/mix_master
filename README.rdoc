@@ -1,9 +1,3 @@
----
-title: Mix Master
-length: forever
-tags: rails, many-to-many, one-to-many, rspec, testing
----
-
 # Mix Master: Getting Started
 
 Welcome to Mix Master! We'll create an app where we keep track of songs, artists, and playlists. Maybe we'll even add in some user ownership. Who knows! It will be an adventure. 
